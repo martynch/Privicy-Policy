@@ -11,6 +11,9 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to users name, email address, gender, location, pictures. The information that we request will be retained by us and used as described in this privacy policy.  
 The app does use third party services that may collect information used to identify you. 
 
+### Deleting Your Personal Data
+If you no longer wish to use our App you have the right to request that we remove any informstion we gatherd from using the above social media services to create your account. Please contact us on the email at the end of list provacy policy, we will confirm when your account is removed
+
 ### Cookies  
 Cookies are files with small amount of data that is commonly used an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your devices’s internal memory.  
 
